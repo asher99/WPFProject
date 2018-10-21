@@ -1,1 +1,2 @@
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\Flowers\BE\bin\Debug\BE.exe.config
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\BE\bin\Debug\BE.exe.config
