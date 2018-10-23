@@ -57,6 +57,10 @@
       <Project>{439bded9-d7e2-487b-93e9-31db75eabe4d}</Project>
       <Name>Flowers_DAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\targil1\Flowers_BE.csproj">
+      <Project>{cef66724-2736-4ea4-8ca4-d7ab8ae6eb7f}</Project>
+      <Name>Flowers_BE</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

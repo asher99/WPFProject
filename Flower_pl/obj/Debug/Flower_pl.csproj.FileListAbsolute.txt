@@ -22,3 +22,4 @@ C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Deb
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl_MarkupCompile.lref
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl.exe
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl.pdb
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\bin\Debug\Flower_pl.exe.config

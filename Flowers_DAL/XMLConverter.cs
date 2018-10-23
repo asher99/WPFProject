@@ -13,11 +13,11 @@ namespace DAL
         public static XElement toXML(this Flower flower)
         {
             return new XElement("Flower",
-                new XElement("name",flower.name),
+                new XElement("name", flower.name),
                 new XElement("description", flower.description),
                 new XElement("growingArea", flower.growingArea),
-                new XElement("color",flower.color.toHex),
-                new XElement("newImage",flower.newImage));
+                new XElement("color", flower.color.toHex),
+                new XElement("newImage", flower.newImage));
         }
 
         public static Flower toFlower(this XElement flowerXml)
@@ -35,9 +35,10 @@ namespace DAL
                 description = flowerXml.Element("description").Value,
                 growingArea = flowerXml.Element("growingArea").Value,
                 color = Color.fromHex(flowerXml.Element("color").Value),
-               // newImage =; 
+                // newImage =; 
 
             };
             return flower;
+        }
     }
 }

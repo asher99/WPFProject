@@ -7,9 +7,10 @@ using Flowers_BE;
 
 namespace Flowers_DAL
 {
-    public class DB
+    public class DB : IDal
     {
         List<Flower> dbList;
+
         public DB()
         {
             dbList = new List<Flower>();
