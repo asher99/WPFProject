@@ -22,3 +22,10 @@ C:\Users\אשר אלכסנדר\Documents\מכון לב\אקדמיה\שנה ג\ס
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\bin\Debug\targil1.exe.config
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\targil1.exe
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\targil1.pdb
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\bin\Debug\targil1.exe
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\bin\Debug\targil1.pdb
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\Flowers_BE.csprojResolveAssemblyReference.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\App.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\targil1_MarkupCompile.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\targil1.Properties.Resources.resources
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\targil1\obj\Debug\Flowers_BE.csproj.GenerateResource.Cache

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BE;
+using Flower_BE;
 using System.Xml.Linq;
 
 namespace DAL
@@ -12,7 +12,12 @@ namespace DAL
     {
         public static XElement toXML(this Flower flower)
         {
-            return new XElement("Nanny",);
+            return new XElement("Flower",
+                new XElement("name",flower.name),
+                new XElement("description", flower.description),
+                new XElement("growingArea", flower.growingArea),
+                new XElement("color",flower.color.toHex),
+                new XElement("newImage",flower.newImage));
         }
 
         public static Flower toFlower(this XElement flowerXml)
@@ -26,7 +31,11 @@ namespace DAL
 
             flower = new Flower
             {
-                id = Int32.Parse(flowerXml.Element("id").Value),
+                name = flowerXml.Element("name").Value,
+                description = flowerXml.Element("description").Value,
+                growingArea = flowerXml.Element("growingArea").Value,
+                color = Color.fromHex(flowerXml.Element("color").Value),
+               // newImage =; 
 
             };
             return flower;

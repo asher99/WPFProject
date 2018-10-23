@@ -12,7 +12,9 @@ namespace Flowers_BE
         public string name { set; get; }
         public string description { set; get; }
         public string growingArea { set; get; }
-        public string color { set; get; }
+        public Color color { set; get; }
         public Bitmap newImage { set; get; }
+
+        
     }
 }
