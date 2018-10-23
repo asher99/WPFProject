@@ -1,0 +1,20 @@
+﻿<Window x:Class="Flower_pl.Flower_list"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flower_pl"
+        mc:Ignorable="d"
+        Title="Flower_list" Height="300" Width="300">
+    <Grid>
+        <DataGrid x:Name="datagridflowers" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+            <DataGridTextColumn Header="שם הפרח" Binding="{Binding name}" />
+            <DataGridTextColumn Header="תיאור" Binding="{Binding description}"/>
+            <DataGridTextColumn Header="איזור גידול" Binding="{Binding growingArea}"/>
+            <DataGridTextColumn Header="צבע" Binding="{Binding color}"/>
+            <DataGridTextColumn Header="תמונה" Binding="{Binding newImage}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

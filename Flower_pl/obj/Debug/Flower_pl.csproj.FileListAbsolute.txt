@@ -1,0 +1,16 @@
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\bin\Debug\Flower_pl.exe.config
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\bin\Debug\Flower_pl.exe
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\bin\Debug\Flower_pl.pdb
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.csprojResolveAssemblyReference.cache
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\MainWindow.g.cs
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\App.g.cs
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl_MarkupCompile.cache
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl_MarkupCompile.lref
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\MainWindow.baml
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.g.resources
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.Properties.Resources.resources
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.csproj.GenerateResource.Cache
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.csproj.CoreCompileInputs.cache
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.exe
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.pdb
+C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_list.g.cs
