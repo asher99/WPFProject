@@ -1,2 +1,3 @@
 C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flowers_DAL\obj\Debug\Flowers_DAL.csprojResolveAssemblyReference.cache
 C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flowers_DAL\obj\Debug\Flowers_DAL.csproj.CoreCompileInputs.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flowers_DAL\obj\Debug\Flowers_DAL.csprojResolveAssemblyReference.cache

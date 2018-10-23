@@ -53,13 +53,9 @@
     <Content Include="Ds_XML\FlowerXML.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BE\BE.csproj">
-      <Project>{52795e79-3cdc-4c5d-99f6-669ef9ec41fc}</Project>
-      <Name>BE</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{c6c45444-2156-4d6f-ba52-d201ec50391d}</Project>
-      <Name>DAL</Name>
+    <ProjectReference Include="..\Flowers_DAL\Flowers_DAL.csproj">
+      <Project>{439bded9-d7e2-487b-93e9-31db75eabe4d}</Project>
+      <Name>Flowers_DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -14,3 +14,11 @@ C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חל�
 C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.exe
 C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_pl.pdb
 C:\Users\קינג חגי\Desktop\תיקיות חגי\הנדסת מערכת חלונות\תרגיל1\targil1\Flower_pl\obj\Debug\Flower_list.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_PL.csprojResolveAssemblyReference.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_list.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\MainWindow.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\App.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl_MarkupCompile.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl_MarkupCompile.lref
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl.exe
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Flower_pl\obj\Debug\Flower_pl.pdb

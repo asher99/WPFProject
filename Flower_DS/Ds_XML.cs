@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.IO;
-using DAL;
-namespace DS
+using Flower_DAL;
+namespace Flower_DS
 {
     public static class Ds_XML
     {       
@@ -14,7 +14,7 @@ namespace DS
             private static string solutionDirectory = Directory.GetParent(Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName).FullName;
 
             // determine a path for the XML files
-            private static string filePath = System.IO.Path.Combine(solutionDirectory, "DS", "Ds_XML");
+            private static string filePath = System.IO.Path.Combine(solutionDirectory, "Flower_DS", "Ds_XML");
 
             // define path for the XML files:
            
