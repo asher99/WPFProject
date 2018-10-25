@@ -32,7 +32,7 @@ namespace Flowers_DAL
             }
         }
 
-        public List<Flower> display()
+        public IEnumerable<Flower> display()
         {
             return dbList;
         }

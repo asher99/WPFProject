@@ -11,7 +11,7 @@ namespace Flowers_DAL
     {
          void add(Flower flower);
          void remove(string name);
-         List<Flower> display();
+         IEnumerable<Flower> display();
         
     }
 
