@@ -53,10 +53,6 @@
     <Content Include="Ds_XML\FlowerXML.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Flowers_DAL\Flowers_DAL.csproj">
-      <Project>{439bded9-d7e2-487b-93e9-31db75eabe4d}</Project>
-      <Name>Flowers_DAL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\targil1\Flowers_BE.csproj">
       <Project>{cef66724-2736-4ea4-8ca4-d7ab8ae6eb7f}</Project>
       <Name>Flowers_BE</Name>

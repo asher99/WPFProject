@@ -53,6 +53,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Flower_DS\Flower_DS.csproj">
+      <Project>{d2918777-f772-4682-a8c1-36c7a239f100}</Project>
+      <Name>Flower_DS</Name>
+    </ProjectReference>
     <ProjectReference Include="..\targil1\Flowers_BE.csproj">
       <Project>{cef66724-2736-4ea4-8ca4-d7ab8ae6eb7f}</Project>
       <Name>Flowers_BE</Name>
