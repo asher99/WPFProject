@@ -17,8 +17,8 @@ namespace Flowers_DAL
                 new XElement("name", flower.name),
                 new XElement("description", flower.description),
                 new XElement("growingArea", flower.growingArea),
-                new XElement("color", flower.color.toHex()),
-                new XElement("newImage", flower.newImage)
+                new XElement("color", flower.color.Name),
+                new XElement("newImage", flower.newImage.ToString())
               );
         }
 
@@ -36,9 +36,8 @@ namespace Flowers_DAL
                 name = flowerXml.Element("name").Value,
                 description = flowerXml.Element("description").Value,
                 growingArea = flowerXml.Element("growingArea").Value,
-               color = Color.fromHex(flowerXml.Element("color").Value),
-                // newImage =; 
-
+                color = Color.FromName(flowerXml.Element("color").Value),
+                newImage = Image.FromFile(flowerXml.Element("newImage").Value) 
             };
                 
             return flower;
