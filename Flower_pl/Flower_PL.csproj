@@ -113,5 +113,9 @@
   <ItemGroup>
     <Resource Include="images\flower_background.jpg" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Languages\Dictionary.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
