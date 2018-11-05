@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flower_PL", "Flower_pl\Flow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flower_DS", "Flower_DS\Flower_DS.csproj", "{D2918777-F772-4682-A8C1-36C7A239F100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targil2", "Targil2\Targil2.csproj", "{234B7D22-7163-4C3F-915E-609D0B42DD6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D2918777-F772-4682-A8C1-36C7A239F100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2918777-F772-4682-A8C1-36C7A239F100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2918777-F772-4682-A8C1-36C7A239F100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234B7D22-7163-4C3F-915E-609D0B42DD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234B7D22-7163-4C3F-915E-609D0B42DD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234B7D22-7163-4C3F-915E-609D0B42DD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234B7D22-7163-4C3F-915E-609D0B42DD6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

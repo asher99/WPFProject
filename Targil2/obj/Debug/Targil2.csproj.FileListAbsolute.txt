@@ -1,0 +1,16 @@
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\bin\Debug\Targil2.exe.config
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\bin\Debug\Targil2.exe
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\bin\Debug\Targil2.pdb
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.csprojResolveAssemblyReference.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\MainWindow.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\App.g.cs
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2_MarkupCompile.cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2_MarkupCompile.lref
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\App.baml
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\MainWindow.baml
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.g.resources
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.Properties.Resources.resources
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.csproj.GenerateResource.Cache
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.exe
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.pdb
+C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\bin\Debug\XamlAnimatedGif.dll
