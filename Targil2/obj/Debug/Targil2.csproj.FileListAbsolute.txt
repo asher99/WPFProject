@@ -13,4 +13,3 @@ C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.csproj.GenerateResource.Cache
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.exe
 C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\obj\Debug\Targil2.pdb
-C:\Users\אשר אלכסנדר\Source\Repos\Flowers\WPFProject\Targil2\bin\Debug\XamlAnimatedGif.dll
