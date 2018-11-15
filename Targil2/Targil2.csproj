@@ -97,16 +97,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\door closed.jpg" />
+    <Resource Include="Resources\door_closed.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\door open.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\door_closed.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\door_open.jpg" />
+    <Resource Include="Resources\door_open.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
