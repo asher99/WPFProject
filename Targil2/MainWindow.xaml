@@ -8,5 +8,6 @@
         Title="MainWindow"  Height="350" Width="525">
     <Grid>
         <Image x:Name="image" HorizontalAlignment="Left" Height="312" Margin="154,-14,0,0" VerticalAlignment="Top" Width="362"/>
+        <CheckBox x:Name="checkBox" Content="My Amazing CheckBox!" HorizontalAlignment="Left" Margin="54,118,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

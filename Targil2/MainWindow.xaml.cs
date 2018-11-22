@@ -22,6 +22,7 @@ namespace Targil2
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
 
